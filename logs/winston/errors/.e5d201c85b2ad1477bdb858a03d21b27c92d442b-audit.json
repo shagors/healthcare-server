@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\.e5d201c85b2ad1477bdb858a03d21b27c92d442b-audit.json",
+    "files": [
+        {
+            "date": 1710574149067,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-16-03-13-error.log",
+            "hash": "592413654e744121c9de5a8fccdaf3d9a5435c3e2ee08b3f49a311926dec776a"
+        },
+        {
+            "date": 1710576004608,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-16-03-14-error.log",
+            "hash": "92ec4a09a80f2d1ea0ff5b1f97fa05d7107dfbc1104314756b81adc8b9e90139"
+        },
+        {
+            "date": 1710579605026,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-16-03-15-error.log",
+            "hash": "c153a89c38caec434554db4b650e41f4bdc7b06ef2b5ef3782e59b4d53442670"
+        },
+        {
+            "date": 1710583204439,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-16-03-16-error.log",
+            "hash": "a8b847daa9d4cd69ccf633608fd9d0323e95e7eee5ab8c824012b8edda3f064d"
+        },
+        {
+            "date": 1710637753472,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-17-03-07-error.log",
+            "hash": "7d273820478c4239f95186a729c8e3602326f838b6748673496af656dd0ee2ee"
+        },
+        {
+            "date": 1710658515936,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-17-03-12-error.log",
+            "hash": "2b93740ac4bf6239120d95ea0e3b24e7b58f5fbb3a47e00548208d62c3867bf4"
+        },
+        {
+            "date": 1710810735897,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-19-03-07-error.log",
+            "hash": "b90694b7c4506bd03d3cc7478a897f68e6a0373b9c98fb1eac64fe831f400c06"
+        }
+    ],
+    "hashType": "sha256"
+}

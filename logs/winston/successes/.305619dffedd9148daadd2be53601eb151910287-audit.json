@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\.305619dffedd9148daadd2be53601eb151910287-audit.json",
+    "files": [
+        {
+            "date": 1710574148841,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-16-03-13-success.log",
+            "hash": "90ea6b3181e904ff8c1853753bd94e6e02d0691874554151b96c2b513f36e5b3"
+        },
+        {
+            "date": 1710581626621,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-16-03-15-success.log",
+            "hash": "2581f54359a1c73533ce5eb0666b089dda2939e16bf8aa969692ab2b2a40f4b8"
+        },
+        {
+            "date": 1710637753464,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-03-07-success.log",
+            "hash": "56ecbb93bf253273c67d3d08fdc0163bb6edfad95c455bb373ae2e5099e476b4"
+        },
+        {
+            "date": 1710658515928,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-03-12-success.log",
+            "hash": "6d146a8b25fd9d48268c53b3cf7ca2743587208ec2fe1fdacac55879b031af54"
+        },
+        {
+            "date": 1710810735888,
+            "name": "C:\\Users\\THT\\projects\\per\\level-2\\frontend path\\nextjs\\Health Care\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-19-03-07-success.log",
+            "hash": "35f8251284847d8575b28f942041efe99a25f6878fab94c3b1ce72eac1091e83"
+        }
+    ],
+    "hashType": "sha256"
+}
